@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#
+*.blp
+
 # Distribution / packaging
 .Python
 build/
